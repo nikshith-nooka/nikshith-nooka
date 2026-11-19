@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Live training loss for run 1: 2.5000">
+<title>Live training loss — run #1</title>
+<defs>
+  <linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7B733" stop-opacity=".35"/><stop offset="1" stop-color="#F7B733" stop-opacity="0"/></linearGradient>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#8e7cf0"/><stop offset="1" stop-color="#F7B733"/></linearGradient>
+</defs>
+<style>
+  .ax{font:12px ui-monospace,Menlo,Consolas,monospace;fill:#6b6890}
+  .h{font:600 15px ui-monospace,Menlo,Consolas,monospace;fill:#e8e6ff}
+  .ln{stroke-dasharray:3000;stroke-dashoffset:3000;animation:draw 2.5s ease-out forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .dot{animation:pulse 1.6s ease-in-out infinite}
+  @keyframes pulse{50%{r:9;opacity:.35}}
+  @media (prefers-reduced-motion: reduce){.ln{animation:none;stroke-dashoffset:0}.dot{animation:none}}
+</style>
+<rect width="1000" height="260" rx="14" fill="#0b0a1a"/>
+<rect x=".5" y=".5" width="999" height="259" rx="14" fill="none" stroke="#2a2750"/>
+<text x="64" y="32" class="h">live training loss · run #1 · epoch 0</text>
+<text x="976" y="32" class="ax" text-anchor="end">loss 2.5000 · acc 8.2%</text>
+<line x1="64" x2="976" y1="220.0" y2="220.0" stroke="#211f3f"/><text x="54" y="224.0" text-anchor="end" class="ax">0.0</text><line x1="64" x2="976" y1="178.0" y2="178.0" stroke="#211f3f"/><text x="54" y="182.0" text-anchor="end" class="ax">0.8</text><line x1="64" x2="976" y1="136.0" y2="136.0" stroke="#211f3f"/><text x="54" y="140.0" text-anchor="end" class="ax">1.6</text><line x1="64" x2="976" y1="94.0" y2="94.0" stroke="#211f3f"/><text x="54" y="98.0" text-anchor="end" class="ax">2.3</text><line x1="64" x2="976" y1="52.0" y2="52.0" stroke="#211f3f"/><text x="54" y="56.0" text-anchor="end" class="ax">3.1</text>
+<line x1="64" x2="976" y1="217.3" y2="217.3" stroke="#3ddc84" stroke-dasharray="4 6" opacity=".7"/><text x="976" y="211.3" text-anchor="end" class="ax" fill="#3ddc84">convergence · 0.05</text>
+<polygon points="64,220 64.0,85.6 64.0,220" fill="url(#a)"/>
+<polyline points="64.0,85.6" fill="none" stroke="url(#l)" stroke-width="2.5" stroke-linejoin="round" class="ln"/>
+<circle cx="64.0" cy="85.6" r="5" fill="#F7B733" class="dot"/>
+<text x="64" y="246" class="ax">epoch 0</text>
+<text x="976" y="246" class="ax" text-anchor="end">now →</text>
+</svg>

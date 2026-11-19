@@ -1,0 +1,54 @@
+name: Train me
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: train-model
+  cancel-in-progress: false
+
+jobs:
+  train:
+    if: startsWith(github.event.issue.title, 'train|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run one training step
+        env:
+          ACTION_TITLE: ${{ github.event.issue.title }}
+          TRAINER: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: python scripts/train.py
+
+      - name: Commit the new epoch
+        env:
+          TRAINER: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/state.json assets/loss.svg
+          if git commit -m "🧠 epoch trained by @${TRAINER}"; then
+            for i in 1 2 3; do
+              git pull --rebase && git push && break
+              sleep 3
+            done
+          fi
+
+      - name: Reply and close the issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body-file .train_message.md
+          gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY"

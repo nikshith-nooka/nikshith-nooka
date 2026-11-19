@@ -1,0 +1,16 @@
+{
+  "run": 1,
+  "epoch": 0,
+  "loss": 2.5,
+  "best_loss": 2.5,
+  "history": [
+    2.5
+  ],
+  "shield": false,
+  "data_fed_by": [],
+  "total_epochs": 0,
+  "explosions": 0,
+  "converged_runs": [],
+  "leaderboard": {},
+  "recent": []
+}
