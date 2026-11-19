@@ -1,6 +1,8 @@
 <div align="center">
 
-<a href="https://www.nikshithnooka.page/"><img src="assets/hero.svg" width="100%" alt="Nikshith Nooka. Building reliable AI for healthcare, public services and cities. Open to internships and research."/></a>
+<a href="https://www.nikshithnooka.page/"><img src="assets/hero.svg" width="100%" alt="Nikshith Nooka, AI/ML engineer in Hyderabad. Building reliable AI for healthcare, public services and cities. Open to internships and research."/></a>
+
+<img src="assets/band.svg" width="100%" alt="8x hackathon winner · Google Campus Ambassador · CGPA 9.49 · 20K+ student community · AI Engineer Intern at Mondee"/>
 
 <img src="assets/stats.svg" width="100%" alt="8 hackathon wins · CGPA 9.49 · 20K+ student community · 200+ students taught"/>
 
@@ -10,9 +12,9 @@
 
 <img src="assets/wins.svg" width="100%" alt="Hackathon record: 8 wins, including 1st place at Paranox 2.0 and 3rd place at HACK-A-THON 1.0"/>
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, TensorFlow, Scikit-learn, LangChain, Gemini, TypeScript, React, Next.js, FastAPI and more"/>
+<img src="assets/experience.svg" width="100%" alt="Experience: AI Engineer Intern at Mondee Tech, ML Intern at XYZON Technologies, Operations and Community Lead at The Student Spot, Google Campus Ambassador, and internships at Swecha, ViswamAI and Kartavya Solutions"/>
 
-<img src="assets/experience.svg" width="100%" alt="Experience: ML Intern at XYZON Technologies, Operations and Community Lead at The Student Spot, Google Campus Ambassador, and internships at Swecha, ViswamAI and Kartavya Solutions"/>
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, TensorFlow, Scikit-learn, LangChain, Gemini, TypeScript, React, Next.js, FastAPI and more"/>
 
 <a href="https://www.nikshithnooka.page/"><img src="assets/c-portfolio.svg" width="33.33%" alt="Portfolio: nikshithnooka.page"/></a><a href="https://www.linkedin.com/in/nikshith-nooka/"><img src="assets/c-linkedin.svg" width="33.33%" alt="LinkedIn: in/nikshith-nooka"/></a><a href="mailto:nikshithnooka@gmail.com"><img src="assets/c-email.svg" width="33.33%" alt="Email: nikshithnooka@gmail.com"/></a>
 
