@@ -1,64 +1,19 @@
-### Hi, I'm Nikshith 👋
+<div align="center">
 
-I'm an AI/ML engineer from Hyderabad, India, building reliable AI systems for healthcare, public services and cities.
+<a href="https://www.nikshithnooka.page/"><img src="assets/hero.svg" width="100%" alt="Nikshith Nooka. Building reliable AI for healthcare, public services and cities. Open to internships and research."/></a>
 
-**About me**
+<img src="assets/stats.svg" width="100%" alt="8 hackathon wins · CGPA 9.49 · 20K+ student community · 200+ students taught"/>
 
-- 🎓 B.Tech CSE (AI & ML) at Malla Reddy University · CGPA 9.49
+<a href="https://github.com/nikshith-nooka/GovMed-AI"><img src="assets/p-govbench.svg" width="50%" alt="GovBench-Clinical: a benchmark and clinician workbench for governed multi-agent clinical AI"/></a><a href="https://github.com/nikshith-nooka/GovReason-Rag"><img src="assets/p-govreason.svg" width="50%" alt="GovReasonRAG: evidence-contracted RAG for Indian welfare schemes"/></a>
+<a href="https://github.com/nikshith-nooka/GeoSick-AI"><img src="assets/p-geosick.svg" width="50%" alt="GeoSick AI: environmental health guidance that runs fully in the browser"/></a><a href="https://github.com/nikshith-nooka/Marga-Netra-AI"><img src="assets/p-marganetra.svg" width="50%" alt="MargaNetra: traffic decision support with graph neural networks"/></a>
+<a href="https://github.com/nikshith-nooka/PetGuide-AI"><img src="assets/p-petguide.svg" width="50%" alt="PetGuide AI: multimodal pet health triage"/></a><a href="https://github.com/nikshith-nooka/GeoTrace-AI"><img src="assets/p-geotrace.svg" width="50%" alt="GeoTrace AI: atmospheric data on a 3D globe"/></a>
 
-- 🏆 Won **8 hackathons**, including 1st place at Paranox 2.0 (New Delhi) and 3rd at HACK-A-THON 1.0 (international)
+<img src="assets/wins.svg" width="100%" alt="Hackathon record: 8 wins, including 1st place at Paranox 2.0 and 3rd place at HACK-A-THON 1.0"/>
 
-- 🌐 Google Campus Ambassador. I've run AI & Cloud workshops for **200+ students**
+<img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, TensorFlow, Scikit-learn, LangChain, Gemini, TypeScript, React, Next.js, FastAPI and more"/>
 
-- 🤝 Operations & Community Lead at [The Student Spot](https://www.linkedin.com/company/thestudentspot/), a community of **20,000+ students**
+<img src="assets/experience.svg" width="100%" alt="Experience: ML Intern at XYZON Technologies, Operations and Community Lead at The Student Spot, Google Campus Ambassador, and internships at Swecha, ViswamAI and Kartavya Solutions"/>
 
-- 🔬 Currently working on governed multi-agent AI and hallucination-resistant RAG
+<a href="https://www.nikshithnooka.page/"><img src="assets/c-portfolio.svg" width="33.33%" alt="Portfolio: nikshithnooka.page"/></a><a href="https://www.linkedin.com/in/nikshith-nooka/"><img src="assets/c-linkedin.svg" width="33.33%" alt="LinkedIn: in/nikshith-nooka"/></a><a href="mailto:nikshithnooka@gmail.com"><img src="assets/c-email.svg" width="33.33%" alt="Email: nikshithnooka@gmail.com"/></a>
 
-- 📫 Reach me at [nikshithnooka@gmail.com](mailto:nikshithnooka@gmail.com)
-
-<code><img height="20" alt="python" title="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="pytorch" title="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
-<code><img height="20" alt="tensorflow" title="tensorflow" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" alt="scikit-learn" title="scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="20" alt="typescript" title="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" title="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" alt="nextjs" title="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="nodejs" title="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="fastapi" title="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
-<code><img height="20" alt="tailwind" title="tailwind" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="20" alt="postgresql" title="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" alt="mongodb" title="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="docker" title="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" alt="google-cloud" title="google-cloud" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
-<code><img height="20" alt="git" title="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-
-<br/>
-
-| <img src="https://github-stats-extended.vercel.app/api?username=nikshith-nooka&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="150"/> | <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nikshith-nooka&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150"/> |
-| ------------- | ------------- |
-
-#### Top Projects
-
-<a href="https://github.com/nikshith-nooka/GovMed-AI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=nikshith-nooka&repo=GovMed-AI&theme=transparent&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nikshith-nooka/GovReason-Rag">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=nikshith-nooka&repo=GovReason-Rag&theme=transparent&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nikshith-nooka/GeoSick-AI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=nikshith-nooka&repo=GeoSick-AI&theme=transparent&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nikshith-nooka/Marga-Netra-AI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=nikshith-nooka&repo=Marga-Netra-AI&theme=transparent&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nikshith-nooka/PetGuide-AI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=nikshith-nooka&repo=PetGuide-AI&theme=transparent&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://github.com/nikshith-nooka/Plastivize-AI">
-  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=nikshith-nooka&repo=Plastivize-AI&theme=transparent&hide_border=true&description_lines_count=2" />
-</a>
-
-<br/>
-<br/>
-
-[Portfolio](https://www.nikshithnooka.page/) · [LinkedIn](https://www.linkedin.com/in/nikshith-nooka/) · [Email](mailto:nikshithnooka@gmail.com)
+</div>
