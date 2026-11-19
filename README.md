@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://www.nikshithnooka.page/"><img src="assets/hero.svg" width="100%" alt="Nikshith Nooka, AI/ML engineer in Hyderabad. Building reliable AI for healthcare, public services and cities. Open to internships and research."/></a>
+<a href="https://nnooka.netlify.app/"><img src="assets/hero.svg" width="100%" alt="Nikshith Nooka, AI/ML engineer in Hyderabad. Building reliable AI for healthcare, public services and cities. Open to internships and research."/></a>
 
-<img src="assets/band.svg" width="100%" alt="8x hackathon winner · Google Campus Ambassador · CGPA 9.49 · 20K+ student community · AI Engineer Intern at Mondee"/>
+<img src="assets/band.svg" width="100%" alt="8x hackathon winner · Google Campus Ambassador · CGPA 9.46 · 20K+ student community · AI Developer Intern at MondeeTech"/>
 
-<img src="assets/stats.svg" width="100%" alt="8 hackathon wins · CGPA 9.49 · 20K+ student community · 200+ students taught"/>
+<img src="assets/stats.svg" width="100%" alt="8 hackathon wins · CGPA 9.46 · 20K+ student community · 200+ students taught"/>
 
 <a href="https://github.com/nikshith-nooka/GovMed-AI"><img src="assets/p-govbench.svg" width="50%" alt="GovBench-Clinical: a benchmark and clinician workbench for governed multi-agent clinical AI"/></a><a href="https://github.com/nikshith-nooka/GovReason-Rag"><img src="assets/p-govreason.svg" width="50%" alt="GovReasonRAG: evidence-contracted RAG for Indian welfare schemes"/></a>
 <a href="https://github.com/nikshith-nooka/GeoSick-AI"><img src="assets/p-geosick.svg" width="50%" alt="GeoSick AI: environmental health guidance that runs fully in the browser"/></a><a href="https://github.com/nikshith-nooka/Marga-Netra-AI"><img src="assets/p-marganetra.svg" width="50%" alt="MargaNetra: traffic decision support with graph neural networks"/></a>
@@ -12,10 +12,10 @@
 
 <img src="assets/wins.svg" width="100%" alt="Hackathon record: 8 wins, including 1st place at Paranox 2.0 and 3rd place at HACK-A-THON 1.0"/>
 
-<img src="assets/experience.svg" width="100%" alt="Experience: AI Engineer Intern at Mondee Tech, ML Intern at XYZON Technologies, Operations and Community Lead at The Student Spot, Google Campus Ambassador, and internships at Swecha, ViswamAI and Kartavya Solutions"/>
+<img src="assets/experience.svg" width="100%" alt="Experience: AI Developer Intern at MondeeTech, Full Stack Developer at Studlyf, ML Intern at XYZON Technologies, Operations and Community Lead at The Student Spot, Full Stack Developer Intern at Swecha, and Google Campus Ambassador"/>
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, PyTorch, TensorFlow, Scikit-learn, LangChain, Gemini, TypeScript, React, Next.js, FastAPI and more"/>
 
-<a href="https://www.nikshithnooka.page/"><img src="assets/c-portfolio.svg" width="33.33%" alt="Portfolio: nikshithnooka.page"/></a><a href="https://www.linkedin.com/in/nikshith-nooka/"><img src="assets/c-linkedin.svg" width="33.33%" alt="LinkedIn: in/nikshith-nooka"/></a><a href="mailto:nikshithnooka@gmail.com"><img src="assets/c-email.svg" width="33.33%" alt="Email: nikshithnooka@gmail.com"/></a>
+<a href="https://nnooka.netlify.app/"><img src="assets/c-portfolio.svg" width="33.33%" alt="Portfolio: nnooka.netlify.app"/></a><a href="https://www.linkedin.com/in/nikshith-nooka/"><img src="assets/c-linkedin.svg" width="33.33%" alt="LinkedIn: in/nikshith-nooka"/></a><a href="mailto:nikshithnooka@gmail.com"><img src="assets/c-email.svg" width="33.33%" alt="Email: nikshithnooka@gmail.com"/></a>
 
 </div>

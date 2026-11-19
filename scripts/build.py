@@ -93,7 +93,7 @@ def hero():
 
 # ───────────────────────────── marquee band ─────────────────────────────
 def band():
-    phrase = "8× HACKATHON WINNER  ★  GOOGLE CAMPUS AMBASSADOR  ★  CGPA 9.49  ★  20K+ STUDENT COMMUNITY  ★  AI ENGINEER INTERN @ MONDEE  ★"
+    phrase = "8× HACKATHON WINNER  ★  GOOGLE CAMPUS AMBASSADOR  ★  CGPA 9.46  ★  20K+ STUDENT COMMUNITY  ★  AI DEVELOPER INTERN @ MONDEETECH  ★"
     L = 2050
     css = f".mq{{animation:mq 30s linear infinite}}@keyframes mq{{to{{transform:translateX(-{L + 40}px)}}}}"
     defs = '<clipPath id="c"><rect x="8" y="8" width="1178" height="64" rx="32"/></clipPath>'
@@ -102,14 +102,14 @@ def band():
         for k in range(2))
     body = (tile(8, 8, 1178, 64, BLUE, LIME, 32) + f'<g clip-path="url(#c)"><g class="mq">{t}</g></g>'
             + f'<rect x="8" y="8" width="1178" height="64" rx="32" fill="none" stroke="{INK}" stroke-width="2.5"/>')
-    svg("band.svg", 1200, 86, body, css, defs, "8x hackathon winner. Google Campus Ambassador. CGPA 9.49. 20K+ student community. AI Engineer Intern at Mondee.")
+    svg("band.svg", 1200, 86, body, css, defs, "8x hackathon winner. Google Campus Ambassador. CGPA 9.46. 20K+ student community. AI Developer Intern at MondeeTech.")
 
 
 # ───────────────────────────── stats ─────────────────────────────
 def stats():
     tiles = [
         ("HACKATHON WINS", "8×", "national + international", PAPER, BLUE, INK, INK),
-        ("CGPA", "9.49", "B.Tech CSE (AI & ML)", INK, LIME, LIME, PAPER),
+        ("CGPA", "9.46", "B.Tech CSE (AI & ML)", INK, LIME, LIME, PAPER),
         ("COMMUNITY", "20K+", "students at The Student Spot", ORANGE, PAPER, INK, INK),
         ("TAUGHT", "200+", "students in AI & Cloud workshops", LILAC, ORANGE, INK, INK),
     ]
@@ -130,7 +130,7 @@ def stats():
             body += f'<g class="w"><circle cx="{sx - 10}" cy="{sy}" r="12" fill="{INK}"/><circle cx="{sx + 8}" cy="{sy}" r="12" fill="{PAPER}" stroke="{INK}" stroke-width="2.5"/></g>'
         else:
             body += f'<g class="w"><rect x="{sx - 17}" y="{sy - 17}" width="34" height="34" rx="6" fill="{BLUE}" stroke="{INK}" stroke-width="2.5"/></g>'
-    svg("stats.svg", 1200, 212, body, css, "", "8 hackathon wins. CGPA 9.49. 20K+ student community. 200+ students taught.")
+    svg("stats.svg", 1200, 212, body, css, "", "8 hackathon wins. CGPA 9.46. 20K+ student community. 200+ students taught.")
 
 
 # ───────────────────────────── project art ─────────────────────────────
@@ -343,13 +343,12 @@ def stack():
 
 # ───────────────────────────── experience ─────────────────────────────
 EXPERIENCE = [
-    ("JUL 2026 – NOW", "AI Engineer Intern", "Mondee Tech Pvt. Ltd.", "CURRENT ROLE", True),
+    ("JUL 2026 – NOW", "AI Developer Intern", "MondeeTech Pvt. Ltd.", "VOICE AGENTS · FARE ANALYSIS", True),
+    ("AUG – SEP 2026", "Full Stack Developer", "Studlyf", "FULL-STACK WEB APPS", False),
     ("FEB – MAY 2026", "ML Intern", "XYZON Technologies", "STUDENT-PERFORMANCE MODELS", False),
     ("JAN 2026 – NOW", "Operations & Community Lead", "The Student Spot", "20K+ COMMUNITY", True),
-    ("AUG 2025 – NOW", "Google Campus Ambassador", "Google", "200+ STUDENTS TAUGHT", True),
-    ("SEP – NOV 2025", "Full-Stack Developer Intern", "Swecha · open source", "300+ PATIENT RECORDS", False),
-    ("AUG – OCT 2025", "AI Developer", "ViswamAI", "RAG OVER 100 GB", False),
-    ("AUG – OCT 2025", "AI Developer Intern", "Kartavya Solutions", "5 MODELS ON GCP", False),
+    ("SEP – NOV 2025", "Full Stack Developer Intern", "Swecha · open source", "300+ PATIENT RECORDS", False),
+    ("COMPLETED", "Google Campus Ambassador", "Google", "200+ STUDENTS MENTORED", False),
 ]
 
 
@@ -376,7 +375,7 @@ def experience():
 
 # ───────────────────────────── contact buttons ─────────────────────────────
 def contact():
-    for slug, label, value, fill, shadow, textc in (("portfolio", "PORTFOLIO", "nikshithnooka.page", LIME, BLUE, INK),
+    for slug, label, value, fill, shadow, textc in (("portfolio", "PORTFOLIO", "nnooka.netlify.app", LIME, BLUE, INK),
                                                     ("linkedin", "LINKEDIN", "in/nikshith-nooka", BLUE, LIME, "#fff"),
                                                     ("email", "EMAIL", "nikshithnooka@gmail.com", ORANGE, PAPER, INK)):
         body = (tile(8, 8, 378, 82, fill, shadow, 41)
